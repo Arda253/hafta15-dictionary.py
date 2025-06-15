@@ -1,0 +1,1 @@
+15. haftada  Python kodu ile 1'den 10'a kadar olan sayıların faktöriyelini recursive (özyinelemeli) olarak hesaplayıp yazdırıyoruz bu kodda.  
